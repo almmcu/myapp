@@ -11,14 +11,11 @@ public class MyActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        System.out.println("aýdosfj");
-        System.out.println("ţoaýsdf");
+        System.out.println("a?dosfj");
+        System.out.println("?oa?sdf");
         
         //sd
-        System.out.println("ţoaýsdf");
-        
-        //sd
-        System.out.println("ţoaýsdf");
+        System.out.println("?oa?sdf");
         
     }
 }
