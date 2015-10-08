@@ -13,8 +13,7 @@ public class MyActivity extends Activity {
         setContentView(R.layout.main);
         System.out.println("a?dosfj");
         System.out.println("?oa?sdf");
-        
-        //sasfd
+
         System.out.println("?oa?sdf");
         
     }
