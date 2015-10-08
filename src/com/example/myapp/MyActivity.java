@@ -13,7 +13,7 @@ public class MyActivity extends Activity {
         setContentView(R.layout.main);
         System.out.println("a?dosfj");
         System.out.println("?oa?sdf");
-        
+        // this change has been made by asus computer..
         //sd
         System.out.println("?oa?sdf");
         
