@@ -14,7 +14,7 @@ public class MyActivity extends Activity {
         System.out.println("a?dosfj");
         System.out.println("?oa?sdf");
         
-        //sd
+        //s
         System.out.println("?oa?sdf");
         
     }
